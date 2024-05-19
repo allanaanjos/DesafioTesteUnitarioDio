@@ -1,0 +1,15 @@
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\bin\Debug\net6.0\TesteUnitarioDesafioConcole.exe
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\bin\Debug\net6.0\TesteUnitarioDesafioConcole.deps.json
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\bin\Debug\net6.0\TesteUnitarioDesafioConcole.runtimeconfig.json
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\bin\Debug\net6.0\TesteUnitarioDesafioConcole.dll
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\bin\Debug\net6.0\TesteUnitarioDesafioConcole.pdb
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.csproj.AssemblyReference.cache
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.AssemblyInfoInputs.cache
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.AssemblyInfo.cs
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.csproj.CoreCompileInputs.cache
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.dll
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\refint\TesteUnitarioDesafioConcole.dll
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.pdb
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\TesteUnitarioDesafioConcole.genruntimeconfig.cache
+C:\temp2\TestUnitarioDesafio\TesteUnitarioDesafioConcole\obj\Debug\net6.0\ref\TesteUnitarioDesafioConcole.dll
